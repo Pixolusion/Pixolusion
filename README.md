@@ -42,7 +42,7 @@ The opinions, repositories, and content shared here are my own and do not reflec
             R&D Supervisor
         </td>
         <td width="50%">
-            <img src="https://raw.githubusercontent.com/Pixolusion/Pixolusion/main/images/jurassicWorld.jpg" alt="Jurassic World">
+            <img src="https://raw.githubusercontent.com/Pixolusion/Pixolusion/main/images/jurassicWorld.png" alt="Jurassic World">
             <a href="https://www.imdb.com/title/tt0369610"><br/>Jurassic World</a><br/>
             Lead Creature Developer
         </td>
