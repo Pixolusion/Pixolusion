@@ -1,6 +1,9 @@
 ## Hi there 👋
 Software Manager | Vision Enabler | Tech-Art Enthusiast
 
+[![LinkedIn: Rikki Knight-Trembath](https://img.shields.io/badge/Linkedin-Rikki-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/rikkiknight/)
+[![IMDB: Rikki Knight-Trembath](https://img.shields.io/badge/Rikki-Knight--Trembath?style=flat-square&logo=imdb&labelColor=grey&color=yellow&link=https://www.imdb.com/name/nm3100509)](https://www.imdb.com/name/nm3100509)
+
 I specialize in bringing visions to life through software, with a focus on:
 - Character-driven workflows
 -Evaluation engines
